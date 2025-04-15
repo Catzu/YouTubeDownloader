@@ -10,3 +10,6 @@
 
 - pip installer pyinstaller
 "pyinstaller --onefile --windowed YTDownloader.py(program name)" (in terminal to create program)
+
+# Exe file
+Exe file is located in dist
