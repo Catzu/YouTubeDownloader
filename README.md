@@ -1,6 +1,6 @@
 # YouTubeDownloader
 
-# Needed python installs for it be working
+# Needed python installs and steps
 - pip install tkinter
 - pip install customtkinter
 - pip uninstall pytube
